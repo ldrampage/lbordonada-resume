@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: CNP (Customer Notification Platform)
-        link: 
+        link: https://github.com/ldrampage/cnp-webservice
         link_text: Link on Request
         additional_links:
           - title: --- #sproogen/modern-resume-theme
@@ -136,7 +136,7 @@ content:
     content:
       - layout: top-middle
         title: Fidium Account Service
-        link: ---
+        link: https://github.com/ldrampage/fidium-account-service
         link_text: Link on Request
         additional_links:
           - title: --- #sproogen/modern-resume-theme
@@ -152,7 +152,7 @@ content:
       
       - layout: top-middle
         title: Radius Node.js
-        link: ---
+        link: https://github.com/ldrampage/node-radius
         link_text: Link on Request
         additional_links:
           - title: --- #sproogen/modern-resume-theme
@@ -224,11 +224,9 @@ content:
         caption: 2010 - 2012
         sub_title: Computer Programming NC-IV
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          I turned rejection into motivation --- switched from Hotel and Restaurant Management to Computer Programming, and graduated Best in Thesis.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I walked away from a college path I didn't love, even when it meant losing support. I chose computer programming vocational course instead --- and from that moment, everything clicked. I graduated top of my class, Best in Thesis, and finally found what I was meant to do.
 
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
