@@ -95,8 +95,8 @@ content:
       
       - layout: top-middle
         title: WebLogic Exit Project
-        link: ---
-        link_text: Link on Request
+        #link: ---
+        #link_text: Link on Request
         additional_links:
           - title: --- #sproogen/modern-resume-theme
             icon: --- #fab fa-github
@@ -114,7 +114,7 @@ content:
 
       - layout: top-middle
         title: Integration Projects
-        link: ---
+        #link: ---
         #link_text: Project Website
         additional_links:
           - title: --- #sproogen/modern-resume-theme
@@ -168,7 +168,7 @@ content:
           The platform manages critical subscriber data such as IP addresses, MAC/OUI, static IPs, modems, and routers. 
           Rebuilt batch processing workflows, REST APIs, and SOAP web services in Node.js for subscriber data management. 
           Implemented Kafka-based messaging, external API integrations, and centralized logging to enhance reliability and scalability. 
-          Optimized the system for cloud deployment on AWS, improving maintainability, performance, and reducing infrastructure overhead.
+          Optimized the system for cloud deployment on AWS, improving maintainability, performance and reducing infrastructure overhead.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -187,7 +187,7 @@ content:
           - Composed and maintained Dockerfiles and Kubernetes deployment configurations for containerized deployments.  
           - Established CI/CD pipelines, streamlining release processes and improving delivery speed. 
           - Conducted code reviews and mentoring sessions to improve code quality and development best practices. 
-          - Created and maintained system documentation, technical design specs and walkthroughs, and process workflows for better team alignment and onboarding.
+          - Created and maintained system documentation, technical design specs and walkthroughs, and process workflows for better team alignment and on-boarding.
           - Collaborated with cross-functional teams to define and achieve business goals.
 
       - layout: left
@@ -203,7 +203,7 @@ content:
           - Enhanced and maintained existing enterprise applications while building new backend services per request of stakeholders.
           - Integrated third party RESTful APIs and SOAP Webservices applications. 
           - Migrated legacy applications to modern cloud infrastructure. 
-          - Spearheaded the adoption of Agile methodologies.
+          - Spearheaded the adoption of Agile Methodologies.
 
       - layout: left
         title: Authoritative Content LLC
