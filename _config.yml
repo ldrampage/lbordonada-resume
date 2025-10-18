@@ -15,7 +15,7 @@ website: https://ldrampage.github.io/lbordonada-resume/
 darkmode: false
 
 # Social links
-twitter_username: facespics
+#twitter_username: facespics
 github_username:  ldrampage
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -25,7 +25,7 @@ instagram_username: devdoncreative
 linkedin_username: lyndon-bordonada-27862b21a
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: 
+# youtube_username: jekyll
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -87,6 +87,22 @@ content:
           One of the crucial api that I've ever migrated from WebLogic to Spring Boot.
         description: | # this will include new lines to allow paragraphs
           Developed the migration of Radius ACS systems to Spring Boot, ensuring continuity of customer internet connectivity. The system stores and manages subscriber details such as IP addresses, MAC/OUI, static IPs, modems, and routers. Developed batch processes, REST APIs, SOAP Webservices for subscriber data management. Implemented Kafka messaging, External API integrations, and Logging to ensure reliability and scalability. Improved system efficiency and maintainability compared to the legacy platform
+      
+      - layout: top-middle
+        title: WebLogic Exit Project
+        link: ---
+        # link_text: Project Website
+        additional_links:
+          - title: --- #sproogen/modern-resume-theme
+            icon: --- #fab fa-github
+            url: --- #github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Fueled by caffeine, curiosity, and the occasional stack overflow thread and even more cups of coffee.
+        description: | # this will include new lines to allow paragraphs
+          Successfully migrated multiple mission-critical backend applications from legacy Java WebLogic to modern Spring Boot microservices — including FICMS, CIS, MOVE-AGENT, NGNCM, DSL TEST TOOL, and LGI, all essential to enterprise backend operations. Modernization improved scalability, performance, and maintainability, enabling faster deployments and reducing operational costs through containerized Spring Boot services.
   
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
