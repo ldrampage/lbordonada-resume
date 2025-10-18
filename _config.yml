@@ -58,8 +58,8 @@ content:
     content:
       - layout: top-middle
         title: CNP (Customer Notification Platform)
-        link: ---
-        # link_text: Project Website
+        link: 
+        link_text: Link on Request
         additional_links:
           - title: --- #sproogen/modern-resume-theme
             icon: --- #fab fa-github
@@ -76,8 +76,8 @@ content:
           <mark>Spring Boot</mark> <mark>Spring MVC</mark> <mark>Spring REST</mark> <mark>Spring Batch</mark> <mark>Spring Data JPA</mark> <mark>Spring Security</mark> <mark>OKTA SAML2</mark> <mark>JSON</mark> <mark>XML</mark> <mark>XSLT</mark> <mark>HTML</mark> <mark>Bootstrap</mark> <mark>JQuery</mark> <mark>JavaScript</mark> <mark>Oracle SQL</mark> <mark>Kafka</mark>
       - layout: top-middle
         title: Radius
-        link: ---
-        # link_text: Project Website
+        link: 
+        link_text: Link on Request
         additional_links:
           - title: --- #sproogen/modern-resume-theme
             icon: --- #fab fa-github
@@ -96,7 +96,7 @@ content:
       - layout: top-middle
         title: WebLogic Exit Project
         link: ---
-        # link_text: Project Website
+        link_text: Link on Request
         additional_links:
           - title: --- #sproogen/modern-resume-theme
             icon: --- #fab fa-github
@@ -115,7 +115,7 @@ content:
       - layout: top-middle
         title: Integration Projects
         link: ---
-        # link_text: Project Website
+        #link_text: Project Website
         additional_links:
           - title: --- #sproogen/modern-resume-theme
             icon: --- #fab fa-github
@@ -137,7 +137,7 @@ content:
       - layout: top-middle
         title: Fidium Account Service
         link: ---
-        # link_text: Project Website
+        link_text: Link on Request
         additional_links:
           - title: --- #sproogen/modern-resume-theme
             icon: --- #fab fa-github
@@ -153,7 +153,7 @@ content:
       - layout: top-middle
         title: Radius Node.js
         link: ---
-        # link_text: Project Website
+        link_text: Link on Request
         additional_links:
           - title: --- #sproogen/modern-resume-theme
             icon: --- #fab fa-github
@@ -182,7 +182,6 @@ content:
         quote: >
           I led the migration of multiple legacy WebLogic Java APIs --- a project that not only modernized our systems but also earned me recognition across the workplace and a promotion to Software Engineering Specialist.
         description: | # this will include new lines to allow paragraphs 
-          As an Engineering Specialist, I balance leadership and hands-on development --- from architecting microservices to documenting systems, mentoring teams, and deploying with Docker and Kubernetes.
           - Lead a team of engineers in developing scalable and secure applications and improvement of system performance. 
           - Architected and implemented microservices-based solutions to enhance modularity and maintainability. 
           - Composed and maintained Dockerfiles and Kubernetes deployment configurations for containerized deployments.  
@@ -215,7 +214,7 @@ content:
         quote: >
           Some journeys take longer, but every line of code I wrote along the way led me here.
         description: | # this will include new lines to allow paragraphs
-          This is where I started my career and learned a lot about industry best practices in API development --- from integrating backend PHP with frontend JavaScript to deploying websites with web hosting. I also helped maintain and support live systems, contributed code enhancements and resolved production issues.
+          This is where I jump started my career and applied the best practices in API development --- from integrating backend PHP with frontend JavaScript to deploying websites with web hosting. I also helped maintain and support live systems, contributed code enhancements and resolved production issues.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
