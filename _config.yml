@@ -218,32 +218,36 @@ content:
       - layout: left
         title: Spring Certified Professinal 2023 by VMWare
         link: https://www.credly.com/badges/157eab3a-8fe0-4109-bfe5-5278fd587cb1/linked_in_profile
+        caption: 2023
         quote: >
-          ---
+          Test
         description: | # this will include new lines to allow paragraphs
-          ---
+          Test
       - layout: left
         title: Computer Programming National Competency IV by TESDA (Technical Educational and Skills Development Authority)
         #link: https://www.credly.com/badges/157eab3a-8fe0-4109-bfe5-5278fd587cb1/linked_in_profile
+        caption: 2012
         quote: >
-          ---
+          Test
         description: | # this will include new lines to allow paragraphs
-          ---
+          Test
       - layout: left
         title: Software Design: From Requirements to Release
         link: https://www.linkedin.com/learning/certificates/419699579fe1a6810c10077106066bc96ec8c97b596ba951ad0f26a26537bc50
+        caption: 2022
         quote: >
-          ---
+          Test
         description: | # this will include new lines to allow paragraphs
-          ---
+          Test
       
       - layout: left
         title: Designing RESTful APIs
         link: https://www.linkedin.com/learning/certificates/0ca275ec1c2b983c1edc1dde318f5d78e8d659250f25e9a863130ae4ec5a332e
+        caption: 2022
         quote: >
-          ---
+          Test
         description: | # this will include new lines to allow paragraphs
-          ---
+          Test
 
   - title: A Little More About Me
     layout: text
