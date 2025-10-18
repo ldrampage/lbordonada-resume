@@ -84,7 +84,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          One of the crucial api that I've ever migrated from WebLogic to Spring Boot.
+          One of the crucial API that I've ever migrated from WebLogic to Spring Boot.
         description: | # this will include new lines to allow paragraphs
           Developed the migration of Radius ACS systems to Spring Boot, ensuring continuity of customer internet connectivity. The system stores and manages subscriber details such as IP addresses, MAC/OUI, static IPs, modems, and routers. Developed batch processes, REST APIs, SOAP Webservices for subscriber data management. Implemented Kafka messaging, External API integrations, and Logging to ensure reliability and scalability. Improved system efficiency and maintainability compared to the legacy platform
       
@@ -154,37 +154,57 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Delivered critical features under tight deadline, often requiring late-night problem-solving to meet project goals.
+          One of the crucial API that I've ever migrated from Spring Boot to Node.js
         description: | # this will include new lines to allow paragraphs
-          Migrated Spring Boot-based INTNR-AUTH system to Node.js microservices, ensuring seamless customer internet connectivity. 
+          Migrated Spring Boot-based Radius ACS system to Node.js microservices, ensuring seamless customer internet connectivity. 
           The platform manages critical subscriber data such as IP addresses, MAC/OUI, static IPs, modems, and routers. 
           Rebuilt batch processing workflows, REST APIs, and SOAP web services in Node.js for subscriber data management. 
           Implemented Kafka-based messaging, external API integrations, and centralized logging to enhance reliability and scalability. 
           Optimized the system for cloud deployment on AWS, improving maintainability, performance, and reducing infrastructure overhead.
 
-
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Accenture x Fidium
+        link: https://www.fidiumfiber.com/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Custom Software Engineering Specialist
+        caption: February 2024 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+      
+      - layout: left
+        title: Accenture x Fidium
+        link: https://www.fidiumfiber.com/
+        # link_text: boringcompany.com
+        sub_title: Custom Software Engineering Senior Developer
+        caption: February 2021 - 2024
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+      - layout: left
+        title: Authoritative Content LLC
+        link: https://sops.authoritativecontentllc.com/
+        # link_text: boringcompany.com
+        sub_title: Junior Programmer
+        caption: February 2018 - 2021
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: MTC Academy Albay
+        caption: 2010 - 2012
+        sub_title: Computer Programming NC-IV
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -196,11 +216,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      - Skateboarding
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
+      - Guitarist
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
