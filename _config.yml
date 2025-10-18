@@ -212,6 +212,39 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Spring Certified Professinal 2023 by VMWare
+        link: https://www.credly.com/badges/157eab3a-8fe0-4109-bfe5-5278fd587cb1/linked_in_profile
+        quote: >
+          ---
+        description: | # this will include new lines to allow paragraphs
+          ---
+      - layout: left
+        title: Computer Programming National Competency IV by TESDA (Technical Educational and Skills Development Authority)
+        #link: https://www.credly.com/badges/157eab3a-8fe0-4109-bfe5-5278fd587cb1/linked_in_profile
+        quote: >
+          ---
+        description: | # this will include new lines to allow paragraphs
+          ---
+      - layout: left
+        title: Software Design: From Requirements to Release
+        link: https://www.linkedin.com/learning/certificates/419699579fe1a6810c10077106066bc96ec8c97b596ba951ad0f26a26537bc50
+        quote: >
+          ---
+        description: | # this will include new lines to allow paragraphs
+          ---
+      
+      - layout: left
+        title: Designing RESTful APIs
+        link: https://www.linkedin.com/learning/certificates/0ca275ec1c2b983c1edc1dde318f5d78e8d659250f25e9a863130ae4ec5a332e
+        quote: >
+          ---
+        description: | # this will include new lines to allow paragraphs
+          ---
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -219,6 +252,7 @@ content:
       - Skateboarding
       - Gaming
       - Guitarist
+
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
