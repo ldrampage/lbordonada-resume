@@ -70,8 +70,24 @@ content:
         quote: >
           This is probably one of the greatest apps I've ever created. 
         description: | # this will include new lines to allow paragraphs
-          Designed and implemented a highly scalable Spring Boot backend system powering the customer notification platform. Supported service provider registration, subscription portal, internet outage detection, and network monitoring systems. <mark>Delivered real-time Email and SMS notifications to end-users.</mark> Built Web UI, Batch Processing, REST APIs, SOAP Webservices, Monitoring System Integrated with Kafka MQ, Integrated External APIs, and OKTA SAML2 authentication/authorization Implemented XML/XSLT transformations for HTML emails and centralized logging for monitoring and troubleshooting.
-
+          Designed and implemented a highly scalable Spring Boot backend system powering the customer notification platform. Supported service provider registration, subscription portal, internet outage detection, and network monitoring systems. <mark>Delivered real-time Email and SMS notifications to end-users.</mark> Built <mark>Web UI</mark>, <mark>Batch Processing</mark>, <mark>RESTful APIs</mark>, <mark>SOAP Webservice</mark>, Monitoring System Integrated with <mark>Kafka MQ</mark>, <mark>Integrated External APIs</mark>, and <mark>OKTA SAML2 authentication/authorization</mark> <mark>Implemented XML/XSLT transformations</mark> for HTML emails and centralized logging for monitoring and troubleshooting.
+    
+    content:
+      - layout: top-middle
+        title: CNP (Customer Notification Platform)
+        link: ---
+        # link_text: Project Website
+        additional_links:
+          - title: --- #sproogen/modern-resume-theme
+            icon: --- #fab fa-github
+            url: --- #github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps I've ever created. 
+        description: | # this will include new lines to allow paragraphs
+          Designed and implemented a highly scalable Spring Boot backend system powering the customer notification platform. Supported service provider registration, subscription portal, internet outage detection, and network monitoring systems. <mark>Delivered real-time Email and SMS notifications to end-users.</mark> Built <mark>Web UI</mark>, <mark>Batch Processing</mark>, <mark>RESTful APIs</mark>, <mark>SOAP Webservice</mark>, Monitoring System Integrated with <mark>Kafka MQ</mark>, <mark>Integrated External APIs</mark>, and <mark>OKTA SAML2 authentication/authorization</mark> <mark>Implemented XML/XSLT transformations</mark> for HTML emails and centralized logging for monitoring and troubleshooting.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
