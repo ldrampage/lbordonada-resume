@@ -182,10 +182,13 @@ content:
         quote: >
           I led the migration of multiple legacy WebLogic Java APIs --- a project that not only modernized our systems but also earned me recognition across the workplace and a promotion to Software Engineering Specialist.
         description: | # this will include new lines to allow paragraphs 
+          As an Engineering Specialist, I balance leadership and hands-on development --- from architecting microservices to documenting systems, mentoring teams, and deploying with Docker and Kubernetes.
           - Lead a team of engineers in developing scalable and secure applications and improvement of system performance. 
-          - Architected and implemented microservices-based solutions. 
-          - Established CI/CD pipelines. 
+          - Architected and implemented microservices-based solutions to enhance modularity and maintainability. 
+          - Composed and maintained Dockerfiles and Kubernetes deployment configurations for containerized deployments.  
+          - Established CI/CD pipelines, streamlining release processes and improving delivery speed. 
           - Conducted code reviews and mentoring sessions to improve code quality and development best practices. 
+          - Created and maintained system documentation, technical design specs and walkthroughs, and process workflows for better team alignment and onboarding.
           - Collaborated with cross-functional teams to define and achieve business goals.
 
       - layout: left
