@@ -174,7 +174,7 @@ content:
           Optimized the system for cloud deployment on AWS, improving maintainability, performance and reducing infrastructure overhead.
 
           Technologies: 
-          <mark>TypeScript</mark> <mark>Express.js</mark> <mark>TypeORM</mark> <mark>Axios</mark> <mark>Inversify</mark> <mark>SOLR</mark> <mark>Docker & Kubernetes</mark> <mark>Oracle SQL</mark> 
+          <mark>TypeScript</mark> <mark>Express.js</mark> <mark>TypeORM</mark> <mark>Axios</mark> <mark>Inversify</mark> <mark>Docker & Kubernetes</mark> <mark>Oracle SQL</mark> 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
