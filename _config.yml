@@ -118,10 +118,10 @@ content:
         quote: >
           Fueled by tons of caffeine.
         description: | # this will include new lines to allow paragraphs
-          •	<mark>OFSC Integration Project</mark> – Integrated Oracle Field Service Cloud (OFSC) with backend systems to synchronize workforce management operations.\n
-          •	<mark>OKTA Integration Project</mark> – Implemented SAML2-based authentication and authorization across enterprise systems.
-          •	<mark>ADTRAN DM Integration Project</mark> – Developed integration with ADTRAN device management platform for provisioning and monitoring customer devices.
-          •	<mark>Kafka Message Queue Integration Project</mark> – Established reliable event-driven architecture for high-throughput messaging across distributed systems.
+          - <mark>OFSC Integration Project</mark> – Integrated Oracle Field Service Cloud (OFSC) with backend systems to synchronize workforce management operations.
+          - <mark>OKTA Integration Project</mark> – Implemented SAML2-based authentication and authorization across enterprise systems.
+          - <mark>ADTRAN DM Integration Project</mark> – Developed integration with ADTRAN device management platform for provisioning and monitoring customer devices.
+          - <mark>Kafka Message Queue Integration Project</mark> – Established reliable event-driven architecture for high-throughput messaging across distributed systems.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
