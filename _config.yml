@@ -71,8 +71,7 @@ content:
           This is probably one of the greatest apps I've ever created. 
         description: | # this will include new lines to allow paragraphs
           Designed and implemented a highly scalable Spring Boot backend system powering the customer notification platform. Supported service provider registration, subscription portal, internet outage detection, and network monitoring systems. <mark>Delivered real-time Email and SMS notifications to end-users.</mark> Built <mark>Web UI</mark>, <mark>Batch Processing</mark>, <mark>RESTful APIs</mark>, <mark>SOAP Webservice</mark>, Monitoring System Integrated with <mark>Kafka MQ</mark>, <mark>Integrated External APIs</mark>, and <mark>OKTA SAML2 authentication/authorization</mark> <mark>Implemented XML/XSLT transformations</mark> for HTML emails and centralized logging for monitoring and troubleshooting.
-    
-    content:
+          
       - layout: top-middle
         title: CNP (Customer Notification Platform)
         link: ---
