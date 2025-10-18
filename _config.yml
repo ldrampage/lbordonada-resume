@@ -22,7 +22,7 @@ github_username:  ldrampage
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: devdoncreative
-linkedin_username: www.linkedin.com/in/lyndon-bordonada-27862b21a
+linkedin_username: lyndon-bordonada-27862b21a
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: 
@@ -46,7 +46,7 @@ youtube_username:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_dp.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Lyndon and I'm a Full Stack Application Developer specializing in backend development with Java (Spring Boot) and JavaScript (TypeScript + Node.js). Over the years, I've designed, built, and maintained scabable enterprise applications that power real business results. As a team lead, I mentor engineers, guide technical decisions, and ensure the systems I've created continue to evolve with stability and performance in mind.
 
@@ -70,10 +70,10 @@ content:
         quote: >
           This is probably one of the greatest apps I've ever created. 
         description: | # this will include new lines to allow paragraphs
-          Designed and implemented a highly scalable Spring Boot backend system powering the customer notification platform. Supported service provider registration, subscription portal, internet outage detection, and network monitoring systems. <mark>Delivered real-time Email and SMS notifications to end-users.</mark> Built <mark>Web UI</mark>, <mark>Batch Processing</mark>, <mark>RESTful APIs</mark>, <mark>SOAP Webservice</mark>, Monitoring System Integrated with <mark>Kafka MQ</mark>, <mark>Integrated External APIs</mark>, and <mark>OKTA SAML2 authentication/authorization</mark> <mark>Implemented XML/XSLT transformations</mark> for HTML emails and centralized logging for monitoring and troubleshooting.
-          
+          Designed and implemented a highly scalable Spring Boot backend system powering the customer notification platform. Supported service provider registration, subscription portal, internet outage detection, and network monitoring systems. Delivered real-time Email and SMS notifications to end-users. Built Web UI, Batch Processing, RESTful APIs, SOAP Webservice, Monitoring System Integrated with Kafka MQ, Integrated External APIs, and OKTA SAML2 authentication/authorization. Implemented XML/XSLT transformations for HTML emails and centralized logging for monitoring and troubleshooting.
+
       - layout: top-middle
-        title: CNP (Customer Notification Platform)
+        title: Radius
         link: ---
         # link_text: Project Website
         additional_links:
@@ -84,10 +84,10 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps I've ever created. 
+          One of the crucial api that I've ever migrated from WebLogic to Spring Boot.
         description: | # this will include new lines to allow paragraphs
-          Designed and implemented a highly scalable Spring Boot backend system powering the customer notification platform. Supported service provider registration, subscription portal, internet outage detection, and network monitoring systems. <mark>Delivered real-time Email and SMS notifications to end-users.</mark> Built <mark>Web UI</mark>, <mark>Batch Processing</mark>, <mark>RESTful APIs</mark>, <mark>SOAP Webservice</mark>, Monitoring System Integrated with <mark>Kafka MQ</mark>, <mark>Integrated External APIs</mark>, and <mark>OKTA SAML2 authentication/authorization</mark> <mark>Implemented XML/XSLT transformations</mark> for HTML emails and centralized logging for monitoring and troubleshooting.
-
+          Developed the migration of Radius ACS systems to Spring Boot, ensuring continuity of customer internet connectivity. The system stores and manages subscriber details such as IP addresses, MAC/OUI, static IPs, modems, and routers. Developed batch processes, REST APIs, SOAP Webservices for subscriber data management. Implemented Kafka messaging, External API integrations, and Logging to ensure reliability and scalability. Improved system efficiency and maintainability compared to the legacy platform
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
