@@ -122,6 +122,47 @@ content:
           - <mark>OKTA Integration Project</mark> – Implemented SAML2-based authentication and authorization across enterprise systems.
           - <mark>ADTRAN DM Integration Project</mark> – Developed integration with ADTRAN device management platform for provisioning and monitoring customer devices.
           - <mark>Kafka Message Queue Integration Project</mark> – Established reliable event-driven architecture for high-throughput messaging across distributed systems.
+  
+  - title: Node.js Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Fidium Account Service
+        link: ---
+        # link_text: Project Website
+        additional_links:
+          - title: --- #sproogen/modern-resume-theme
+            icon: --- #fab fa-github
+            url: --- #github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Delivered critical features under tight deadline, often requiring late-night problem-solving to meet project goals.
+        description: | # this will include new lines to allow paragraphs
+          Migrated a legacy C# service to a modern Node.js API, transforming it into a reliable middleware that integrates with backend systems to retrieve order status and customer address information. The migration improved performance, scalability, and maintainability, while reducing technical debt and enabling faster feature delivery.
+      
+      - layout: top-middle
+        title: Radius Node.js
+        link: ---
+        # link_text: Project Website
+        additional_links:
+          - title: --- #sproogen/modern-resume-theme
+            icon: --- #fab fa-github
+            url: --- #github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Delivered critical features under tight deadline, often requiring late-night problem-solving to meet project goals.
+        description: | # this will include new lines to allow paragraphs
+          Migrated Spring Boot-based INTNR-AUTH system to Node.js microservices, ensuring seamless customer internet connectivity. 
+          The platform manages critical subscriber data such as IP addresses, MAC/OUI, static IPs, modems, and routers. 
+          Rebuilt batch processing workflows, REST APIs, and SOAP web services in Node.js for subscriber data management. 
+          Implemented Kafka-based messaging, external API integrations, and centralized logging to enhance reliability and scalability. 
+          Optimized the system for cloud deployment on AWS, improving maintainability, performance, and reducing infrastructure overhead.
+
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
