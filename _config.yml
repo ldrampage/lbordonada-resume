@@ -216,7 +216,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Spring Certified Professinal 2023 by VMWare
+        title: Spring Certified Professional 2023 by VMWare
         link: https://www.credly.com/badges/157eab3a-8fe0-4109-bfe5-5278fd587cb1/linked_in_profile
         # link_text: Project Website
         additional_links:
@@ -226,13 +226,13 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-          #This is probably one of the greatest apps I've ever created. 
+        quote: >
+          2023
         #description: | # this will include new lines to allow paragraphs
           #Designed and implemented a highly scalable Spring Boot backend system powering the customer notification platform. Supported service provider registration, subscription portal, internet outage detection, and network monitoring systems. Delivered real-time Email and SMS notifications to end-users. Built Web UI, Batch Processing, RESTful APIs, SOAP Webservice, Monitoring System Integrated with Kafka MQ, Integrated External APIs, and OKTA SAML2 authentication/authorization. Implemented XML/XSLT transformations for HTML emails and centralized logging for monitoring and troubleshooting.
 
       - layout: top-middle
-        title: Computer Programming National Competency IV by TESDA (Technical Educational and Skills Development Authority)
+        title: Computer Programming National Competency IV by Technical Educational and Skills Development Authority
         link: ---
         # link_text: Project Website
         additional_links:
@@ -242,8 +242,32 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        #quote: >
-          #This is probably one of the greatest apps I've ever created. 
+        quote: >
+          2012
+        #description: | # this will include new lines to allow paragraphs
+          #Designed and implemented a highly scalable Spring Boot backend system powering the customer notification platform. Supported service provider registration, subscription portal, internet outage detection, and network monitoring systems. Delivered real-time Email and SMS notifications to end-users. Built Web UI, Batch Processing, RESTful APIs, SOAP Webservice, Monitoring System Integrated with Kafka MQ, Integrated External APIs, and OKTA SAML2 authentication/authorization. Implemented XML/XSLT transformations for HTML emails and centralized logging for monitoring and troubleshooting.
+      
+      - layout: top-middle
+        title: Software Design: From Requirements to Release
+        link: https://www.linkedin.com/learning/certificates/419699579fe1a6810c10077106066bc96ec8c97b596ba951ad0f26a26537bc50
+        additional_links:
+          - title: --- #sproogen/modern-resume-theme
+            icon: --- #fab fa-github
+            url: --- #github.com/sproogen/modern-resume-theme
+        quote: >
+          2022
+        #description: | # this will include new lines to allow paragraphs
+          #Designed and implemented a highly scalable Spring Boot backend system powering the customer notification platform. Supported service provider registration, subscription portal, internet outage detection, and network monitoring systems. Delivered real-time Email and SMS notifications to end-users. Built Web UI, Batch Processing, RESTful APIs, SOAP Webservice, Monitoring System Integrated with Kafka MQ, Integrated External APIs, and OKTA SAML2 authentication/authorization. Implemented XML/XSLT transformations for HTML emails and centralized logging for monitoring and troubleshooting.
+
+      - layout: top-middle
+        title: Designing RESTful APIs
+        link: https://www.linkedin.com/learning/certificates/0ca275ec1c2b983c1edc1dde318f5d78e8d659250f25e9a863130ae4ec5a332e
+        additional_links:
+          - title: --- #sproogen/modern-resume-theme
+            icon: --- #fab fa-github
+            url: --- #github.com/sproogen/modern-resume-theme
+        quote: >
+          2022
         #description: | # this will include new lines to allow paragraphs
           #Designed and implemented a highly scalable Spring Boot backend system powering the customer notification platform. Supported service provider registration, subscription portal, internet outage detection, and network monitoring systems. Delivered real-time Email and SMS notifications to end-users. Built Web UI, Batch Processing, RESTful APIs, SOAP Webservice, Monitoring System Integrated with Kafka MQ, Integrated External APIs, and OKTA SAML2 authentication/authorization. Implemented XML/XSLT transformations for HTML emails and centralized logging for monitoring and troubleshooting.
 
