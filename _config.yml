@@ -50,7 +50,7 @@ about_profile_image: images/profile_dp.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Lyndon and I'm a Full Stack Application Developer specializing in backend development with Java (Spring Boot) and JavaScript (TypeScript + Node.js). Over the years, I've designed, built, and maintained scabable enterprise applications that power real business results. As a team lead, I mentor engineers, guide technical decisions, and ensure the systems I've created continue to evolve with stability and performance in mind.
 
-  I am most skilled in: <mark>Java</mark> <mark>Spring Boot</mark> <mark>Spring Security</mark> <mark>Spring Data JPA</mark> <mark>Spring Batch</mark> <mark>Resilience4j</mark> <mark>Swagger/OpenAPI</mark> <mark>Maven</mark> <mark>Soap & RESTful webservices</mark> <mark>Database Management</mark> <mark>ORM Tools</mark> <mark>Kafka</mark> <mark>Thymeleaf & JQuery</mark> <mark>TypeScript + Node.js</mark> <mark>Postman</mark> <mark>Docker & Kubernetes</mark> <mark>Git & Github</mark> <mark>Linux</mark>
+  I am most skilled in: <mark>Java</mark> <mark>Spring Boot</mark> <mark>Spring Security</mark> <mark>Spring Data JPA</mark> <mark>Spring Batch</mark> <mark>Resilience4j</mark> <mark>Swagger/OpenAPI</mark> <mark>Maven</mark> <mark>Soap & RESTful webservices</mark> <mark>Database Management</mark> <mark>ORM Tools</mark> <mark>Kafka</mark> <mark>Thymeleaf & JQuery</mark> <mark>TypeScript + Node.js</mark> <mark>Postman</mark> <mark>Docker & Kubernetes</mark> <mark>Git & Github</mark> <mark>Linux</mark> <mark>Jira</mark> <mark>Confluence</mark> <mark>API Gateway</mark>
 
 content:
   - title: Spring Boot Projects # Title for the section
