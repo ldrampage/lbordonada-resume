@@ -229,7 +229,7 @@ content:
         sub_title: Technical Support Specialist
         caption: February 2016 - 2018
         quote: >
-          Gotta start somewhere.
+          Got to start somewhere.
         description: | # this will include new lines to allow paragraphs
           Took a technical support roll to gather experience in the Industry. 
           - Diagnosing and fixing technical issues.
@@ -244,7 +244,7 @@ content:
         sub_title: Technical Support Specialist
         caption: February 2014 - 2016
         quote: >
-          Gotta start somewhere.
+          Got to start somewhere.
         description: | # this will include new lines to allow paragraphs
           Took a technical support roll to gather experience in the Industry. 
           - Diagnosing and fixing technical issues.
@@ -264,9 +264,7 @@ content:
           Taking it for Profesional Licensing
         description: | # this will include new lines to allow paragraphs
           Expanding my Academic and Theoretical Knowledge.
-
-    layout: list # Type of content section (list/text)
-    content:
+          
       - layout: left
         title: MTC Academy Albay
         caption: 2010 - 2012
