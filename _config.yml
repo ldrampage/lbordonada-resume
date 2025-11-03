@@ -255,14 +255,14 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: AMA University Online Education
-        caption: 2025 - Present
-        sub_title: Bachelor of Information Technology
-        quote: >
-          Taking it for Profesional Licensing
-        description: | # this will include new lines to allow paragraphs
-          Expanding my Academic and Theoretical Knowledge.
+      # - layout: left
+      #   title: AMA University Online Education
+      #   caption: 2025 - Present
+      #   sub_title: Bachelor of Information Technology
+      #   quote: >
+      #     Taking it for Profesional Licensing
+      #   description: | # this will include new lines to allow paragraphs
+      #     Expanding my Academic and Theoretical Knowledge.
 
       - layout: left
         title: MTC Academy Albay
