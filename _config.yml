@@ -255,22 +255,22 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      # - layout: left
-      #   title: AMA University Online Education
-      #   caption: 2025 - Present
-      #   sub_title: Bachelor of Information Technology
-      #   quote: >
-      #     Taking it for Profesional Licensing
-      #   description: | # this will include new lines to allow paragraphs
-      #     Expanding my Academic and Theoretical Knowledge.
+       - layout: left
+         title: Mapua Malayan Digital College
+         caption: 2025 - Present
+         sub_title: Bachelor of Information Technology Major in Sotware Development
+         quote: >
+          Keep learning
+         description: | # this will include new lines to allow paragraphs
+          Expanding my Academic and Theoretical Knowledge.
 
-      - layout: left
-        title: MTC Academy Albay
-        caption: 2010 - 2012
-        sub_title: Computer Programming NC-IV
-        quote: >
+       - layout: left
+         title: MTC Academy Albay
+         caption: 2010 - 2012
+         sub_title: Computer Programming NC-IV
+         quote: >
           I turned rejection into motivation --- switched from Hotel and Restaurant Management to Computer Programming, and graduated Best in Thesis.
-        description: | # this will include new lines to allow paragraphs
+         description: | # this will include new lines to allow paragraphs
           I walked away from a college path I didn't love, even when it meant losing support. I chose computer programming vocational course instead --- and from that moment, everything clicked. I graduated top of my class, Best in Thesis, and finally found what I was meant to do.
 
 
